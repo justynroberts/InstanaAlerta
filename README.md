@@ -1,2 +1,3 @@
 # InstanaAlerta
 Alerta Plugin for Instana (WIP) - Ill keep it public in case someone wants to finish 
+Make sure you copy this into the webhooks folder in ./local/lib/<python>/site packages etc...
